@@ -31,3 +31,36 @@ Dataset link ---> https://www.kaggle.com/datasets/vivek468/superstore-dataset-fi
 19. Quantity - Quantity of the Product.
 20. Discount - Discount provided.
 21. Profit - Profit/Loss incurred.
+
+## Exploratory Data Analysis
+
+### Overview
+
+* The total sales for Superstore is around $2.3 million with a profit of about $286,400 from 2014 till 2017.
+* Customers belonging to the consumer segment contributed to the highest sales, followed by corporate and then home office.
+
+  <p align ="center">
+  <img src="https://user-images.githubusercontent.com/105280450/198065112-49443884-aed7-4e05-877e-f0c583c981c0.png">
+  </p>
+
+  
+The analysis on the dataset is further segregated into four groups- product analysis, region-wise analysis, customer analysis and trend analysis.
+
+###  1. Product Analysis
+
+* Looking at the categories, the sales and profit from the technology category was the highest. 
+ <p align="center">
+   <img src= "https://user-images.githubusercontent.com/105280450/198070006-17a3907d-2afb-45b7-9463-cab58f870f80.png">
+  </p>
+
+* Although the sales generated from office supplies and furniture are within the range of $720,000 to $745,000, the profit from furniture is quite low (2.49% profit margin). Tables and bookcases are sold at a total loss of $21,199.
+
+   <p align="center">
+   <img src= "https://user-images.githubusercontent.com/105280450/198066738-109a8c59-240e-4928-9d25-5ce198e4804c.png">
+  </p>
+* Next is the supplies sub-category from office supplies generating a loss of 2.55%.
+* Office supplies contributes to the maximum profit made by the store.
+
+ ###  2. Region-wise Analysis
+
+
