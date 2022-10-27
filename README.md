@@ -36,7 +36,10 @@ Dataset link ---> https://www.kaggle.com/datasets/vivek468/superstore-dataset-fi
 
 ### Overview
 
-* The total sales for Superstore is around $2.3 million with a profit of about $286,400 from 2014 till 2017.
+* The total sales for Superstore is around $2.3 million with a profit of about $286,400 from 2014 till 2017. Over this period, the total sales, profit and the number of orders have increased steadily with a slight dip in sales in 2015.
+   <p align ="center">
+  <img src="https://user-images.githubusercontent.com/105280450/198371972-6f7d0dc1-a36b-4ce6-91cc-80d745109b93.png">
+  </p>
 * Customers belonging to the consumer segment contributed to the highest sales, followed by corporate and then home office.
 
   <p align ="center">
@@ -56,7 +59,7 @@ The analysis on the dataset is further segregated into four groups- product anal
 * Although the sales generated from office supplies and furniture are within the range of $720,000 to $745,000, the profit from furniture is quite low (2.49% profit margin). Tables and bookcases are sold at a total loss of $21,199.
 
    <p align="center">
-   <img src= "https://user-images.githubusercontent.com/105280450/198066738-109a8c59-240e-4928-9d25-5ce198e4804c.png">
+     <img src= "https://user-images.githubusercontent.com/105280450/198066738-109a8c59-240e-4928-9d25-5ce198e4804c.png">
   </p>
 * Next is the supplies sub-category from office supplies generating a loss of 2.55%.
 * Products belonging to the technology category contribute to the maximum profit made by the store.
@@ -67,12 +70,12 @@ The analysis on the dataset is further segregated into four groups- product anal
 * The top 10 cities contributing to the total sales lie on or close to the coast of the country.
   <p align="center">
      <img src= "https://user-images.githubusercontent.com/105280450/198098293-9d8ffe09-f8d9-4fc9-ab9f-ba2697d38fc5.png">
-    </p>
+  </p>
   
 * From the product analysis, it's clear that the profit from furniture category is the least. On  further categorizing by region, only the central region contributes to the loss. 
  <p align="center">
    <img src= "https://user-images.githubusercontent.com/105280450/198092764-e9ca7b90-8601-4234-b3fe-ec2a54a87002.png" height = 450>
-  </p>
+ </p>
   
 * Almost for all the regions, the sales of bookcases and tables is in a loss.
   <table>
@@ -89,10 +92,18 @@ The analysis on the dataset is further segregated into four groups- product anal
 
 ### 3. Customer Analysis
 
-* There are 3 customers who are in the top 5 customers contributing to the highest sales and profit.
+* There are 3 customers who are in the top 5 contributing to the highest sales and profit.
 * Among the top 5 customers, only one customer- Adrian Barton contributed the maximum sales to office supplies. The remaining four produced the highest sales for         technology products.
    <p align="center">
    <img src= "https://user-images.githubusercontent.com/105280450/198107336-3be63b95-2346-4edb-9bae-d6d96f35962e.png" height= 450>
   </p>
+  
+### 4. Trend Analysis
 
+* Over a period of four years, the maximum number of orders, sales and profit were made in the last four months. A dip is observed in the first two months of the year.   In the first half of the year, sales and profit are the highest in March.
+* By day of the week, maximum orders and sales is made on Mondays and Fridays. The least sales is made on Wednesdays. 
 
+  <p align="center">
+   <img src= "https://user-images.githubusercontent.com/105280450/198364375-bc27d6bc-59c2-45af-9784-aea288b7088c.png" height= 450>
+  </p>
+  
