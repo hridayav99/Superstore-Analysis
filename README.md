@@ -67,7 +67,7 @@ The analysis on the dataset is further segregated into four groups- product anal
  ###  2. Region-wise Analysis
 
 * The highest sales and profit is contributed by the western region.
-* Most of the top 10 cities contributing to the total sales either lie on or close to the coast of the country.
+* Most of the top 10 states contributing to the total sales either lie on or close to the coast of the country.
   <p align="center">
      <img src= "https://user-images.githubusercontent.com/105280450/198495750-ac4b4d8d-81b8-4b56-a206-3542ec8783ba.png">
   </p>
@@ -107,3 +107,17 @@ The analysis on the dataset is further segregated into four groups- product anal
    <img src= "https://user-images.githubusercontent.com/105280450/198364375-bc27d6bc-59c2-45af-9784-aea288b7088c.png" height= 450>
   </p>
   
+## Conclusion and Inference
+
+1. The overall sales and profit has increased with time. Most of the sales and profit was through techology products, especially phones.
+2. More than 50% of the profit is contributed by two states- California and New York. Although Texas made the 3rd highest sales, the store made a loss of 15.12% there ($18.58K in office supplies).
+3. The customer producing the highest sales (Sean Miller) also contributed to a loss of 7.91% through the product which made the highest sales.
+
+### Inference drawn from EDA
+
+* It's apparent that furniture products have performed poorly over the four-year period in all the regions. The loss generated from selling bookcases and tables was     the highest for the consumer segment. The store could sell tables along with the chairs as a set, due to the successful sales performance and profit generated from     chairs. Further research is required, perhaps market basket analysis.
+* Furthermore, the overall performance of furniture products in the central region has been a downward trend. To avoid this in the future, the store can limit the       losses by investing on products that are more profitable in this region, thereby maintaining their inventory.
+* On analyzing the top 5 customers contributing to the highest sales and profit, the store could offer them premium memberships, specific to their needs. This could     help in promoting their business and bring in new customers.
+* From trend analysis it has been observed that the overall sales performance of the store has been the best in the last four months of the year. This could be due to   the holiday season in the USA. The performance in the middle of the year is constant but low. The actual reason for this scenario cannot be established currently       from the data. 
+* In addition, the sales performance can be further analyzed by studying its trend over a week. Right in the middle of the week, the sales are the least. It's           important to understand the purchasing habits of the customers based on their activity and offer special deals to them that could help in boosting the sales and       profit of the store.
+
