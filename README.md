@@ -67,9 +67,9 @@ The analysis on the dataset is further segregated into four groups- product anal
  ###  2. Region-wise Analysis
 
 * The highest sales and profit is contributed by the western region.
-* The top 10 cities contributing to the total sales lie on or close to the coast of the country.
+* Most of the top 10 cities contributing to the total sales either lie on or close to the coast of the country.
   <p align="center">
-     <img src= "https://user-images.githubusercontent.com/105280450/198098293-9d8ffe09-f8d9-4fc9-ab9f-ba2697d38fc5.png">
+     <img src= "https://user-images.githubusercontent.com/105280450/198495750-ac4b4d8d-81b8-4b56-a206-3542ec8783ba.png">
   </p>
   
 * From the product analysis, it's clear that the profit from furniture category is the least. On  further categorizing by region, only the central region contributes to the loss. 
